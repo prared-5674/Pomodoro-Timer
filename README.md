@@ -38,9 +38,6 @@ This Pomodoro Timer is a productivity tool that helps you manage your work and b
 
 Contributions to improve the Pomodoro Timer are welcome. Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
